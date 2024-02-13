@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Такси Капри</string>
+    <string name="driverBtn">Я водитель</string>
+    <string name="customerBtn">Я клиент</string>
+    <string name="email">abc@mail.ru</string>
+    <string name="pass">Пароль</string>
+    <string name="signIn">Войти</string>
+    <string name="signUp">Регистрация</string>
+    <string name="driverStatus">Вход для водителей</string>
+    <string name="createQuestion">Ещё нет аккаунта?</string>
+    <string name="title_activity_drivers_map">Map</string>
+    <string name="title_activity_customers_map">Map</string>
+
+    <string name="loading_title">Загрузка</string>
+    <string name="loading_message">Пожалуйста, дождитесь загрузки</string>
+    <string name="customer_registration">Регистрация для клиентов</string>
+    <string name="invalid_email_password">Некорректный email или пароль</string>
+    <string name="login_error">Ошибка входа. Пожалуйста, проверьте email и пароль.</string>
+    <string name="registration_error">Ошибка регистрации. Пожалуйста, проверьте email и пароль.</string>
+    <string name="registration_success">Регистрация прошла успешно</string>
+    <string name="login_success">Успешный вход.</string>
+    <string name="users">Users</string>
+    <string name="customers">Customers</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.TaxiApp" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+
+    <style name="Theme.TaxiApp" parent="Base.Theme.TaxiApp" >
+    <item name="colorPrimary">@color/white</item> <!-- Основной цвет -->
+    <item name="colorAccent">@color/gray1</item> <!-- Акцентный цвет -->
+    </style>
+</resources>

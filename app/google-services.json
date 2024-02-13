@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "92879343818",
+    "firebase_url": "https://kapri13-default-rtdb.firebaseio.com",
+    "project_id": "kapri13",
+    "storage_bucket": "kapri13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92879343818:android:c54bc9763b4f485705a433",
+        "android_client_info": {
+          "package_name": "com.example.taxiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SYkjyug4I_8XDLhDFfVp8_fsbkht7-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
